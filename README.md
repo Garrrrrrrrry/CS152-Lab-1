@@ -9,7 +9,7 @@ Language Compiler: tempz
 | Language Feature  | Code Example |
 | ------------- | ------------- |
 | Integer scalar variables | int, num, str, dt, bool, chr, flt, dbl |
-| One-dimensional arrays of integers |  arr-3-  "array of dimension 3"|
+| One-dimensional arrays of integers |  arr-3-{}  "array of dimension 3"|
 | Assignment statements | = |
 | Arithmetic operators (e.g., “+”, “-”, “*”, “/”) | "+", "-", "*", "/" |
 | Relational operators (e.g., “<”, “==”, “>”, “!=”) | "<", "==", ">", "-="|
