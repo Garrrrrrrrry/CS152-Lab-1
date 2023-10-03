@@ -13,9 +13,9 @@ Language Compiler: tempz
 | Assignment statements | = |
 | Arithmetic operators (e.g., “+”, “-”, “*”, “/”) | "+", "-", "*", "/" |
 | Relational operators (e.g., “<”, “==”, “>”, “!=”) | "<", "==", ">", "-="|
-| While or Do-While loops | While,  Do-While |
-| Break statement | stop |
-| If-then-else statements	| if, then, else |
-| Read and write statements | tin, tout |
+| While or Do-While loops | While{},  Do-While{} |
+| Break statement | stop; |
+| If-then-else statements	| if{}, then{}, else{} |
+| Read and write statements | tin >>, tout <<|
 | Comments | # |
 | Functions (that can take multiple scalar arguments and return a single scalar result) | main, void, bool, func |
