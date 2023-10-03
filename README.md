@@ -8,7 +8,7 @@ Language Compiler: tempz
 
 | Language Feature  | Code Example |
 | ------------- | ------------- |
-| Integer scalar variables |  |
+| Integer scalar variables | num, str, dt, bool, chr, flt, dbl|
 | One-dimensional arrays of integers |  |
 | Assignment statements |  |
 | Arithmetic operators (e.g., “+”, “-”, “*”, “/”) | |
