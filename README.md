@@ -1,4 +1,4 @@
-Authors: Jaime Perdiguero,Lucia Aranda, Simon Ostermeier, Gary Zeng
+Authors: Jaime Perdiguero (jperdiguero03@gmail.com)(JaimePerdiguero) ,Lucia Aranda (lucia@vanlu.es)(luciaaranda14), Simon Ostermeier, Gary Zeng(zeng.gary0@gmail.com)(Garrrrrrrrry)
 
 Language Name: temp 
 
