@@ -1,21 +1,18 @@
-#include <iostream>
-using namespace std;
+int principal() {
+    int t1 = 0, t2 = 1, nextNum = 0, n;
 
-int main() {
-    int t1 = 0, t2 = 1, nextTerm = 0, n;
-
-    tout << "Enter a positive number: ";
-    tin >> n;
+    #input integer as input
+    int input = 2;
 
     tout << "Fibonacci Series: " << t1 << ", " << t2 << ", ";
 
     nextTerm = t1 + t2;
 
-    while(nextTerm <= n) {
-        tout << nextTerm << ", ";
+    while(nextNum <= n) {
+        tout << nextNum << ", ";
         t1 = t2;
-        t2 = nextTerm;
-        nextTerm = t1 + t2;
+        t2 = nextNum;
+        nextNum = t1 + t2;
     }
     return 0;
 }
