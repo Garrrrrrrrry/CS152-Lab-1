@@ -1,11 +1,8 @@
-
-# A function to implement bubble sort
 void bubbleSort(int arr[], int n)
 {
 	int i = 0, j;
 	while(i < n - 1){
-		# Last i elements are already
-		# in place
+		# Last i elements are already in place
 		j=0;
 		while(j < n - i - 1){
 			if (arr[j] > arr[j + 1]){
