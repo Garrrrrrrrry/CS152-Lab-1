@@ -1,5 +1,5 @@
 
-// A function to implement bubble sort
+# A function to implement bubble sort
 void bubbleSort(int arr[], int n)
 {
 	int i = 0, j;
