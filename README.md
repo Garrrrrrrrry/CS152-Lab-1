@@ -18,4 +18,4 @@ Language Compiler: tempz
 | If-then-else statements	| if{}, then{}, else{} |
 | Read and write statements | tin >>, tout <<|
 | Comments | # |
-| Functions (that can take multiple scalar arguments and return a single scalar result) | principal, void, bool, func |
+| Functions (that can take multiple scalar arguments and return a single scalar result) | principal, void, bool, func, length |
