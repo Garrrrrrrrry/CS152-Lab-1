@@ -1,10 +1,10 @@
-Authors:
+Authors: Jaime Perdiguero,Lucia Aranda, Simon Ostermeier, Gary Zeng
 
-Language Name:
+Language Name: temp 
 
-Language Extension:
+Language Extension: .temp
 
-Language Compiler:
+Language Compiler: tempz
 
 | Language Feature  | Code Example |
 | ------------- | ------------- |
